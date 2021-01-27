@@ -9,10 +9,9 @@
 
 In this challenge, the task is to analyze the data for (fictional) fantasy game Heroes of Pymoli. The game is free-to-play, but optional items can be purchased to enhance playing experience. 
 
-#### Considerations:
-* You must use the Pandas Library and the Jupyter Notebook.
-* You must submit a link to your Jupyter Notebook with the viewable Data Frames.
-* You must include a written description of observable trends based on the data.
+#### Requirements:
+* Pandas Library and Jupyter Notebook must be used.
+* A written description of observable trends based on the data must be included.
 
 --------------------
 
